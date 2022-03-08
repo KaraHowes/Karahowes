@@ -6,8 +6,8 @@
 
 
 -->
+![linkedInline-spot copy](https://user-images.githubusercontent.com/70952682/157244837-344af368-b399-467b-9581-a3f660aa7fa9.png)
 
-![linkedIn-spots](https://user-images.githubusercontent.com/70952682/157238678-79bd43bb-d52a-4140-811b-d579766a3206.jpg)
 
 
 -  :ballot_box_with_check: I have just completed a full-stack resource:  <a href="https://thek-friends.netlify.app/" 
