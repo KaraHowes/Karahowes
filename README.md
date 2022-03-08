@@ -1,7 +1,6 @@
-< Hi Everyone />
+## <Hi Everyone!!!!!/>
 
-![linkedInline-spot copy](https://user-images.githubusercontent.com/70952682/157244837-344af368-b399-467b-9581-a3f660aa7fa9.png)
-
+<img align="center" alt="Kara-logo" width="1000" src="https://user-images.githubusercontent.com/70952682/157244837-344af368-b399-467b-9581-a3f660aa7fa9.png"/>
 
 :star2: I am curious, agile-thinking frontend developer with a PhD background in Chemistry. I love solving problems with pragmatic solutions to build beautiful websites. I am passionate about learning and skill-acquisition. My goal is to be the best version of myself, both professionally and personally :star2:
 
@@ -19,6 +18,25 @@
 - ⚡ Fun fact: I hold a Black Belt in Karate 
 
 
-Languages & Tools:
+## Languages & Tools:
+<img align="left" alt="Visual Studio Code" "width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="HTML" "width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" "width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" "width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="React" "width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Redux" "width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
+<img align="left" alt="Node" "width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 
-Let's Connect:
+
+ ## Let's Connect:
+<div align="center">
+<a href="https://github.com/KaraHowes" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/karahowes/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/16680893/karahowes" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div> 
