@@ -3,6 +3,9 @@
 <!--
 **KaraHowes/Karahowes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+-->
 ![linkedInReadMe](https://user-images.githubusercontent.com/70952682/157234983-900a8a3d-c902-4f43-919e-48c922657dc5.jpg)
 
 
@@ -14,5 +17,3 @@
 - 💬 Ask me about CSS, styling ideas, Illustrator or Organic Chemistry :-)
 - :bulb: I would love to combine my love of science with my love of code. 
 - ⚡ Fun fact: I hold a Black Belt in Karate 
-
--->
